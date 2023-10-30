@@ -1,0 +1,12 @@
+cryptography
+pyOpenSSL
+aiortc
+numpy
+pydub
+mediapipe
+streamlit
+streamlit_webrtc
+streamlit-nested-layout
+opencv-python-headless
+pymysql
+plotly
